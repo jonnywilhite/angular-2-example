@@ -3,11 +3,11 @@ import { Hero } from './hero';
 export const HEROES: Hero[] = [
   {
     id: 11,
-    name: 'ONE PUNCH MAN'
+    name: 'Narco'
   },
   {
     id: 12,
-    name: 'Narco'
+    name: 'One Punch Man'
   },
   {
     id: 13,

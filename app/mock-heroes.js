@@ -2,11 +2,11 @@
 exports.HEROES = [
     {
         id: 11,
-        name: 'Mr. Nice'
+        name: 'Narco'
     },
     {
         id: 12,
-        name: 'Narco'
+        name: 'One Punch Man'
     },
     {
         id: 13,
